@@ -1,0 +1,12 @@
+"Variable","Correlation"
+"price",1
+"accommodates",0.605486165692756
+"bedrooms",0.557541788579331
+"beds",0.542253055367443
+"review_scores_rating",0.110413851628543
+"availability_30",0.0939301261922018
+"availability_60",0.0701263618251991
+"availability_90",0.056490619256637
+"occupancy_rate",0.0402981701501813
+"total_reviews",-0.00538433818789833
+"availability_365",-0.0402981701501813
